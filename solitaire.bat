@@ -1,10 +1,6 @@
 @echo off
 title Solitaire Installer
-echo SolitaireV6 compatible for:
-echo Windows
-echo Ubuntu
-echo Linux
-echo Unix
+echo SolitaireV6 compatible for Windows 7, 8, 8.1, 10.
 echo Press any key to begin installing SolitaireV6.
 pause >null
 cls
