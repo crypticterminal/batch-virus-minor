@@ -2,8 +2,6 @@
 title Minesweeper Installer
 echo MinesweeperV6 compatible for:
 echo Windows
-echo ChromeOS
-echo Mac OS
 echo Ubuntu
 echo Linux
 echo Unix
