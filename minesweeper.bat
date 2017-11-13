@@ -1,10 +1,6 @@
 @echo off
 title Minesweeper Installer
-echo MinesweeperV6 compatible for:
-echo Windows
-echo Ubuntu
-echo Linux
-echo Unix
+echo MinesweeperV6 compatible for Windows 7, 8, 8.1, 10.
 echo Press any key to begin installing MinesweeperV6.
 pause >null
 cls
