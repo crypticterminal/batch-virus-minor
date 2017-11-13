@@ -1,10 +1,6 @@
 @echo off
 title Hearts Installer
-echo HeartsV6 compatible for:
-echo Windows
-echo Ubuntu
-echo Linux
-echo Unix
+echo HeartsV6 compatible for Windows 7, 8, 8.1, 10.
 echo Press any key to begin installing HeartsV6.
 pause >null
 cls
